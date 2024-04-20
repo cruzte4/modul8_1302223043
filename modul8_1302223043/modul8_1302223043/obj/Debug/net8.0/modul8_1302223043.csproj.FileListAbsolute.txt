@@ -1,0 +1,5 @@
+C:\Users\hanaf\Downloads\Koding\C#\modul8_1302223043\modul8_1302223043\obj\Debug\net8.0\modul8_1302223043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanaf\Downloads\Koding\C#\modul8_1302223043\modul8_1302223043\obj\Debug\net8.0\modul8_1302223043.AssemblyInfoInputs.cache
+C:\Users\hanaf\Downloads\Koding\C#\modul8_1302223043\modul8_1302223043\obj\Debug\net8.0\modul8_1302223043.AssemblyInfo.cs
+C:\Users\hanaf\Downloads\Koding\C#\modul8_1302223043\modul8_1302223043\obj\Debug\net8.0\modul8_1302223043.csproj.CoreCompileInputs.cache
+C:\Users\hanaf\Downloads\Koding\C#\modul8_1302223043\modul8_1302223043\obj\Debug\net8.0\modul8_1302223043.sourcelink.json
